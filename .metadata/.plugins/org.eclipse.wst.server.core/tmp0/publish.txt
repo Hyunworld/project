@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jul 05 16:08:47 KST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\as470\\.m2\\repository\\org\\springframework\\spring-web\\5.0.7.RELEASE\\spring-web-5.0.7.RELEASE.jar=C\:\\Users\\as470\\OneDrive\\Desktop\\sts\\apache-tomcat-9.0.45\\wtpwebapps\\Myweb\\WEB-INF\\lib\\spring-web-5.0.7.RELEASE.jar
+org.eclipse.jst.jee.server\:Myweb=C\:\\Users\\as470\\OneDrive\\Desktop\\sts\\apache-tomcat-9.0.45\\wtpwebapps\\Myweb
